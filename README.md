@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to closures and asynchronous operations using setTimeout.  The example showcases how the loop variable's value is not captured correctly within each asynchronous call. The solution demonstrates a proper way to use closures to ensure each setTimeout callback receives the expected value.
